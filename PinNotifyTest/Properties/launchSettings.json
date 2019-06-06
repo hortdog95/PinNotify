@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PinNotifyTest": {
+      "commandName": "Project",
+      "commandLineArgs": " "
+    }
+  }
+}
